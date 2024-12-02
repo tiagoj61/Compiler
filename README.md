@@ -1,4 +1,4 @@
-# Compiler for a New Language
+# Compiler
 
 This project implements a compiler for a new language with a small alphabet. It includes lexical and syntactic analysis functionalities to process source code, validate its structure, and produce necessary constructs for subsequent compilation stages.
 
